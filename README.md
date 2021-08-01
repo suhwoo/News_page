@@ -1,5 +1,5 @@
 # News_page
-made at 20190919. Internet programming assignment. implement news page  
+made in 20190919. Internet programming assignment. implement news page  
 ## 구성  
 - 홈  
 - 메뉴관리  
